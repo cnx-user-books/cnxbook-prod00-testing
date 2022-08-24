@@ -1,43 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Preview Course">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12093</md:content-id>
-  <md:title>prod00 testing</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>8d871d8d-faa6-49fa-be95-7779204487e5</md:uuid>
-<md:slug>prod00-testing</md:slug>
-</metadata>
-
+    <md:content-id>col12093</md:content-id>
+    <md:title>prod00 testing</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>8d871d8d-faa6-49fa-be95-7779204487e5</md:uuid>
+    <md:slug>prod00-testing</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>chapter</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m63315"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>chapter</md:title>
+      <col:content>
+        <col:module document="m63315"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
